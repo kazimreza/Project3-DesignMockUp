@@ -1,0 +1,25 @@
+body {
+    color: #2d3c49;
+    font-family: "Ubuntu", sans-serif;
+}
+
+.image {
+    margin-top: 20px;
+}
+
+.name {
+    font-family: "Shadows Into Light", cursive;
+    font-size: 4em;
+}
+
+hr {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 3px;
+    background-color: #7d97ad;
+}
+
+h2 {
+    color: #7d97ad;
+}
